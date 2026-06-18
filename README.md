@@ -71,4 +71,4 @@ Trabalhar com o conceito de **Vibe Coding** trouxe aprendizados valiosos sobre a
 - **Banco de Dados:** PostgreSQL para transações e armazenamento de metas.
 
 ---
-Desenvolvido com ❤️ por [Seu Nome/Github] durante o bootcamp da DIO.
+Desenvolvido com ❤️ por Kensyto durante o bootcamp da DIO.
